@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5195'
     url: http://www.gutenberg.org/2009/agents/5195
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13718#Manual-of-Ship-Subsidies--13-An-Historical-Summary-of-the-Systems-of-All-Nations
 gutenberg_issued: '2004-10-11'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,27 @@
+_repo: Manual-of-Ship-Subsidies--13-An-Historical-Summary-of-the-Systems-of-All-Nations_13718
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bacon, Edwin M. (Edwin Monroe)
+    alias: Bacon, Edwin Monroe
+    birthdate: 1844
+    deathdate: 1916
+    gutenberg_agent_id: '5195'
+    url: http://www.gutenberg.org/2009/agents/5195
+description: ''
+gutenberg_issued: '2004-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipping bounties and subsidies'
+- !lcc 'HE'
+title: "Manual of Ship Subsidies\r\nAn Historical Summary of the Systems of All Nations"
+url: http://www.gutenberg.org/ebooks/13718
